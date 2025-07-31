@@ -1,0 +1,18 @@
+{
+  "name": "mcp-italian-fable",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@tmcp/adapter-valibot": "^0.1.3",
+    "@tmcp/transport-http": "^0.5.2",
+    "tmcp": "^1.9.1",
+    "valibot": "^1.1.0"
+  }
+}
