@@ -1,15 +1,3 @@
-# mcp-italian-fable
+# cantastorie
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.18. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+A simple MCP server with a pre-made prompt to create a fairy tales in Italian given a list of characters.
